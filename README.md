@@ -81,10 +81,6 @@ Displays available food products or menu items.
 
 ![Contact Page](img/contactus.png)
 
-### 📲 Callback Request
-
-![Callback](img/callback.png)
-
 ---
 
 ## 🛠️ Technologies Used
@@ -119,10 +115,4 @@ You can view the live project here:
 🔗 Foodcourt Connect Website: https://0ritesh1.github.io/UI_Food_Court/
 
 Click the link above to explore the website hosted using GitHub Pages.
-
-## 👨‍💻 Author
-
-**Ritesh Chaubey**
-
-Engineering Graduate | Web Development Enthusiast
 
